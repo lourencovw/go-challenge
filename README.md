@@ -19,7 +19,7 @@ To build and run the Docker image:
     docker run --rm hello-go-optimized
     
     ```
-5. Or run this command bello to fetch from Docker Hub:
+5. Or run this command bellow to fetch from Docker Hub:
 
     ```
     docker run gdavlab/study
